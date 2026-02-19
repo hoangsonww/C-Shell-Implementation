@@ -1,0 +1,4 @@
+exclude:
+  - googletest/
+  - googletest/**
+  - googletest/docs/assets/css/style.scss
