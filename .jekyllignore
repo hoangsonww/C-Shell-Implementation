@@ -1,0 +1,3 @@
+# Ignore vendored GoogleTest sources/docs when GitHub Pages runs Jekyll.
+# Their SCSS expects a different docs pipeline and breaks Pages builds.
+googletest/
